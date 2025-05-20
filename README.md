@@ -36,5 +36,5 @@ FinTrack is being developed in three main phases:
 
 ---
 
-## Project Structure
+
 
