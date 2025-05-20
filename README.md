@@ -1,11 +1,11 @@
-# 💰 FinTrack – Personal Finance Management System
+# FinTrack – Personal Finance Management System
 
 **FinTrack** is an academic software project designed to help users track and manage personal finances through structured data input, reporting, and analysis.  
 The system is developed as part of coursework at the Faculty of Organization and Informatics, University of Zagreb.
 
 ---
 
-## 🧩 Project Overview
+## Project Overview
 
 FinTrack is being developed in three main phases:
 
@@ -26,15 +26,15 @@ FinTrack is being developed in three main phases:
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
-- 📌 C#, .NET Framework
-- 🗃️ ER modeling, UML (Visual Paradigm)
-- 📝 Microsoft Word, draw.io
-- 🖥️ Visual Studio
-- 🧠 Git, GitHub
+- C#, .NET Framework
+- ER modeling, UML (Visual Paradigm)
+- Microsoft Word, draw.io
+- Visual Studio
+- Git, GitHub
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
